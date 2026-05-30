@@ -1,6 +1,6 @@
 # 03 · Peripherals & Interfaces
 
-**Part of [FPGA Journey](https://github.com/YOUR_USERNAME/fpga-journey)**
+**Part of [FPGA Journey](https://github.com/umairahmadh/fpga-journey)**
 
 > The real world of FPGA design: SPI, I2C, FIFOs, AXI-Stream handshaking, VGA output, and a playable Pong game as the capstone demo.
 
@@ -135,4 +135,4 @@ Add a `README.md` section explaining the gray code pointer synchronization in yo
 
 ---
 
-**← Previous:** [02 · HDL / SystemVerilog](https://github.com/YOUR_USERNAME/fpga-02-hdl-sv) &nbsp;|&nbsp; **Next →** [04 · RISC-V CPU](https://github.com/YOUR_USERNAME/fpga-04-riscv-cpu)
+**← Previous:** [02 · HDL / SystemVerilog](https://github.com/umairahmadh/fpga-02-hdl-sv) &nbsp;|&nbsp; **Next →** [04 · RISC-V CPU](https://github.com/umairahmadh/fpga-04-riscv-cpu)
